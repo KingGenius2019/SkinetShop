@@ -1,0 +1,7 @@
+namespace Core.Entitiies
+{
+    public class BaseEntity
+    {
+        public int Id {get; set;}
+    }
+}
